@@ -1,2 +1,2 @@
 # skybox
-A work-in-progress audio-track visualizer using P3D, P4, and sound
+A simple audio-track visualizer using P4 + P3D renderer + sound library
